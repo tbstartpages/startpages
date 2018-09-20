@@ -28,7 +28,7 @@ vLink=#c0c0c0>&nbsp;
     <TD>
       <UL>
         <LI>
-	  <A href="https://www.dnb.no/privat/forsidepostbanken.html?la=no">DnB</A>
+	  <A href="http://www.danskebank.no/nb-no/logonsites/Pages/default.aspx">DanskeBank</A>
         </LI>
       </UL>
     </TD>
@@ -92,7 +92,7 @@ vLink=#c0c0c0>&nbsp;
     <TD>
       <UL>
         <LI>
-	  <A href="http://minesider.nordax.no/login/">Nordax 412.750</A>
+	  <A href="https://www.dnb.no/privat/forsidepostbanken.html?la=no">DnB</A>
 	</LI>
       </UL>
     </TD>
@@ -124,7 +124,7 @@ vLink=#c0c0c0>&nbsp;
     <TD>
       <UL>
         <LI>
-	  <A href="https://spare.bluestep.no/bluestepweb/">Bluestep 401.325</A>
+	  <A href="https://spare.bluestep.no/bluestepweb/">Bluestep 400</A>
 	</LI>
       </UL>
     </TD>
@@ -149,14 +149,15 @@ vLink=#c0c0c0>&nbsp;
     <TD>
       <UL>
         <LI>
+	  <A href="https://www.nordnet.no/mux/web/analys/nyheter/nyheterPressmeddelanden.html?omxnews=on&direkt=on&sixn=on&tddelayed=on&td=on&ob=on&djn=on&ddk=on&hugin=on&wkr=on&ngn=on&atorg=on&beq=on&filtrering=mydepot&fritext=&day_count=3&sentform=1">Nytt3</A>
+	  <A href="https://www.nordnet.no/mux/web/analys/nyheter/nyheterPressmeddelanden.html?omxnews=on&direkt=on&sixn=on&tddelayed=on&td=on&ob=on&djn=on&ddk=on&hugin=on&wkr=on&ngn=on&atorg=on&beq=on&filtrering=mydepot&fritext=&day_count=14&sentform=1">Nytt14</A>
         </LI>
       </UL>
     </TD>
     <TD>
       <UL>
         <LI>
-	  <A href="https://ya.no/nettbank">YaBank</A>
-	  <A href="https://ya.no/kredittkort/rabatter">Rabatt</A>
+	  <A href="http://minesider.nordax.no/login/">Nordax 400</A>
 	</LI>
       </UL>
     </TD>
@@ -189,6 +190,7 @@ vLink=#c0c0c0>&nbsp;
     <TD>
       <UL>
         <LI>
+	  <A href="https://www2.portalbank.no/bsl/do/slogin/Cc?n_bank=1750">Obos MC</A>
 	</LI>
       </UL>
     </TD>
@@ -213,15 +215,17 @@ vLink=#c0c0c0>&nbsp;
      <TD>
       <UL>
         <LI>
-	  <A href="https://nytt.forum.hegnar.no/forum/IKT">IKT</A>
-	  <A href="https://nytt.forum.hegnar.no/forum/Finans">Finans</A>
-	  <A href="https://nytt.forum.hegnar.no/forum/Eiendom">Eiendom</A>
+	  <A href="http://forum.hegnar.no/room.asp?roomid=67">Olje</A>
+	  <A href="http://forum.hegnar.no/room.asp?roomid=45">Offshore</A>
+	  <A href="http://forum.hegnar.no/room.asp?roomid=44">Eiendom</A>
 	</LI>
       </UL>
     </TD>
     <TD>
       <UL>
         <LI>
+	  <A href="https://netbank.entercard.com/ec/engine?locale=no_NO&brand=reno">Re:member</A>
+	  <A href="https://www.rememberreward.no/indexr.jxp">Reward</A>
 	</LI>
       </UL>
     </TD>
@@ -244,12 +248,13 @@ vLink=#c0c0c0>&nbsp;
     <TD>
       <UL>
         <LI>
-	  <A href="https://nytt.forum.hegnar.no/post/search?q=ASC">ASC</A>
-	  <A href="https://nytt.forum.hegnar.no/post/search?q=AXA">AXA</A>
-	  <A href="https://nytt.forum.hegnar.no/post/search?q=B2H">B2H</A>
-	  <A href="https://nytt.forum.hegnar.no/post/search?q=KOMP">KOMP</A>
-	  <A href="https://nytt.forum.hegnar.no/post/search?q=OLT">OLT</A>
-	  <A href="https://nytt.forum.hegnar.no/post/search?q=PARB">PARB</A>
+	  <A href="http://forum.hegnar.no/ticker.asp?ticker=pen">PEN</A>
+	  <A href="http://forum.hegnar.no/ticker.asp?ticker=emas">EMAS</A>
+	  <A href="http://forum.hegnar.no/ticker.asp?ticker=wrl">WRL</A>
+	  <A href="http://forum.hegnar.no/ticker.asp?ticker=biotec">BIO</A>
+	  <A href="http://forum.hegnar.no/ticker.asp?ticker=ots">OTS</A>
+	  <A href="http://forum.hegnar.no/ticker.asp?ticker=agr">AGR</A>
+	  <A href="http://forum.hegnar.no/ticker.asp?ticker=bwo">BWO</A>
 	</LI>
       </UL>
     </TD>

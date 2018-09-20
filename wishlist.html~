@@ -28,11 +28,13 @@ vLink=#c0c0c0>&nbsp;
     <TD>
       <UL>
         <LI>
-<A href="https://m.finn.no/car/used/search.html?make=0.801&model=1.801.7342">928</A>
-<A href="https://m.finn.no/car/used/search.html?make=0.801&model=1.801.3756">Box</A>
-<A href="https://m.finn.no/car/used/search.html?make=0.785&model=1.785.7112">CL</A>
-<A href="https://m.finn.no/car/used/search.html?make=0.785&model=1.785.3773">S</A>
-<A href="https://m.finn.no/car/used/search.html?make=0.785&model=1.785.7113">SL</A>
+<A href="http://m.finn.no/car/used/search.html?make=0.801&model=1.801.3756">Box</A>
+
+<A href="http://m.finn.no/car/used/search.html?make=0.801&model=1.801.7342">928</A>
+
+<A href="http://m.finn.no/car/used/search.html?make=0.785&model=1.785.6712">SLK</A>
+
+<A href="http://m.finn.no/car/used/search.html?make=0.785&model=1.785.3773">S</A>
         </LI>
       </UL>
     </TD>
@@ -74,8 +76,8 @@ vLink=#c0c0c0>&nbsp;
     <TD>
       <UL>
         <LI>
-	  <A href="https://m.finn.no/bap/forsale/search.html?geoLocationName=Hagan&lat=59.99648&lon=10.92402&q=kirseb%C3%A6r&radius=30000&sort=1">Kirsebær</A>
-          <A href="https://m.finn.no/bap/forsale/search.html?geoLocationName=Hagan&lat=59.99648&lon=10.92402&q=cherry&radius=30000&sort=1">Cherry</A>
+	  <A href="http://www.finn.no/finn/torget/resultat?keyword=kirseb%C3%A6r&SEGMENT=0&ITEM_CONDITION=0&SEARCHKEYNAV=SEARCH_ID_BAP_ALL&sort=1&periode=">Kirsebær</A>
+          <A href="http://www.finn.no/finn/torget/tilsalgs/resultat?keyword=cherry&SEGMENT=0&areaId=20003&areaId=20061&ITEM_CONDITION=0&sort=1&periode=">Cherry</A>
         </LI>
       </UL>
     </TD>
@@ -109,7 +111,7 @@ vLink=#c0c0c0>&nbsp;
     <TD>
       <UL>
         <LI>
-	  <A href="https://www.finn.no/bap/forsale/search.html?lat=59.99648&lon=10.92402&q=fres+and+%21sn%C3%B8fres+and+%21sn%C3%B8freser+and+%21plog+and+%21jordfres+and+%21honda+and+%21gardentec&sort=1">Fres</A>
+	  <A href="http://www.finn.no/finn/torget/resultat?keyword=fres%20AND%20!sn%C3%B8fres%20AND%20!sn%C3%B8freser&SEGMENT=0&ITEM_CONDITION=0&SEARCHKEYNAV=SEARCH_ID_BAP_ALL&sort=1&periode=">Fres</A>
 	</LI>
       </UL>
     </TD>
@@ -129,7 +131,7 @@ vLink=#c0c0c0>&nbsp;
     <TD>
       <UL>
         <LI>
-	  <A href="https://forum.astronomisk.dk/forums/forum/astro-forum/k%c3%b8b-salg-forhandlernyt/">AstroForum.dk</A>
+	  <A href="http://www.astro-forum.dk/forum_topics.asp?FID=11&SID=c12853347c94eb1a1d1ce718173c4b49">AstroForum.dk</A>
         </LI>
       </UL>
     </TD>
@@ -146,7 +148,7 @@ vLink=#c0c0c0>&nbsp;
 
       <UL>
         <LI>
-	  <A href="https://m.finn.no/bap/forsale/search.html?category=0.93&geoLocationName=Hagan&lat=59.99648&location=0.20003&location=1.20003.20049&location=1.20003.20042&location=1.20003.20055&location=1.20003.20052&location=1.20003.20059&location=1.20003.20054&location=1.20003.20044&location=1.20003.20053&location=0.20061&lon=10.92402&price_to=501&product_category=2.93.3906.53&q=h%C3%B8yttalere+or+h%C3%B8ytalere+or+%22h%C3%B8y+talere%22+or+h%C3%B8ytallere+or+%22h%C3%B8yt+talere%22&radius=30000&search_type=SEARCH_ID_BAP_ALL&sort=1&sub_category=1.93.3906">Høyttalere</A>
+	  <A href="http://m.finn.no/bap/forsale/search.html?q=h%C3%B8yttalere+or+h%C3%B8ytalere+or+%22h%C3%B8y+talere%22+or+h%C3%B8ytallere+or+%22h%C3%B8yt+talere%22&search_type=SEARCH_ID_BAP_ALL&category=0.93&sub_category=1.93.3906&product_category=2.93.3906.53&location=0.20003&location=1.20003.20049&location=1.20003.20042&location=1.20003.20055&location=1.20003.20052&location=1.20003.20059&location=1.20003.20054&location=1.20003.20044&location=1.20003.20053&location=0.20061&price_to=501&sort=1">Høyttalere</A>
 	</LI>
       </UL>
     </TD>
@@ -225,7 +227,7 @@ vLink=#c0c0c0>&nbsp;
 
       <UL>
         <LI>
-	  <A href="https://m.finn.no/bap/forsale/search.html?lat=59.99648&lon=10.92402&q=%28%22100d%22+or+%22200d%22+or+%225d%22+or+%226d%22+or+sigma+or+fisheye+or+%22fish+eye%22+or+%2214mm%22+or+%228mm%22+or+%2215mm%22+or+%2216mm%22%29+and+%28canon+or+eos+or+ef%29&sort=1">Canon_Sigma</A>
+	  <A href="http://www.finn.no/finn/torget/resultat?keyword=%28%22100d%22%20or%20%225d%22%20or%20sigma%20or%20fisheye%20or%20%22fish%20eye%22%20or%2014mm%20or%208mm%20or%2015mm%20or%2016mm%29%20and%20%28canon%20or%20eos%20or%20ef%29&SEGMENT=0&ITEM_CONDITION=0&SEARCHKEYNAV=SEARCH_ID_BAP_ALL&category=0/93&category=0/86&page=1&sort=1&periode=">Canon_Sigma</A>
 	</LI>
       </UL>
 
